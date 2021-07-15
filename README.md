@@ -22,6 +22,10 @@ Make sure that these captures only show one-way (incoming) traffic and are atlea
 If you prefer to anonymize your captures because they may contain real user information. Please do. 
 Instructions are below.
 
+## Naming scheme
+This project uses a very lean naming scheme. The name should start with either amp (amplification) or pkt (spoofed/direct) and then udp/tcp/another protocol. 
+For amplification, if you know what protocol is being used, please add the protocol name (eg SNMP). Otherwise please use the port. Other than that you can add any other information as long as the title stays short and identifyable. 
+
 
 ## Anonymizing your own packet captures
 First, open your capture in wireshark and write a display filter to only select traffic that's part of your attack.
@@ -33,3 +37,6 @@ for file in $(ls);
   do tcprewrite --infile=$file --outfile=/root/anonymous/$file --dstipmap=0.0.0.0/0:10.10.10.10;
 done
 ```
+
+## Git LFS
+Github doesn't like big files. Because of that we are using LFS for .pcap and .pcapng files to save some space. See their [Website](https://git-lfs.github.com).
