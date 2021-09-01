@@ -2,6 +2,9 @@
 
 This is a collection of multiple anonymized packet captures of real-world and lab-tested DDoS attacks.
 
+## Mirror
+Github has disabled LFS on this repository due to the high amount of downloads. A zipped version of this repository can be downloaded at [https://wqrld.net/captures.zip](https://wqrld.net/captures.zip).
+
 ## Goal
 The goal of providing these captures is to stimulate the growth of ddos research. 
 Real-world DDoS captures are hard to come by which makes research harder.
