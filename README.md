@@ -32,14 +32,11 @@ For amplification, if you know what protocol is being used, please add the proto
 
 ## Anonymizing your own packet captures
 First, open your capture in wireshark and write a display filter to only select traffic that's part of your attack.
-For example `udp && ip.dst == 10.10.10.10 && udp.dstport == 8080`
+For example `udp && ip.dst == 10.10.10.10 && udp.dstport == 8080`. Then under file > export specified packets write a new filtered pcap.
 
-(optionally) Also anonymize the destination ip. This can for example be done with tcpreplay's tcprewrite
+(optionally, but recommended) Also anonymize the destination ip. This can for example be done with tcpreplay's tcprewrite
 ```bash
 for file in $(ls);
   do tcprewrite --infile=$file --outfile=/root/anonymous/$file --dstipmap=0.0.0.0/0:10.10.10.10;
 done
 ```
-
-## Git LFS
-Github doesn't like big files. Because of that we are using LFS for .pcap and .pcapng files to save some space. See their [Website](https://git-lfs.github.com).
