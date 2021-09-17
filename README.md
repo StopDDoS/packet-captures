@@ -11,7 +11,7 @@ Real-world DDoS captures are hard to come by which makes research harder.
 We are trying to overcome that issue.
 
 
-## Licence
+## License
 These captures may be freely used to build and improve DDoS Protection systems. 
 Attribution is not required, but greatly appreciated. Do not claim any of these resources as your own.
 
