@@ -15,6 +15,11 @@ We are trying to overcome that issue.
 These captures may be freely used to build and improve DDoS Protection systems. 
 Attribution is not required, but greatly appreciated. Do not claim any of these resources as your own.
 
+## Citing
+The following information can be used when citing this dataset:
+
+L.F. Haaijer, *DDoS Packet Capture Collection*, (2022). Available from https://github.com/StopDDoS/packet-captures
+
 
 ## Contributing
 If these captures or any of our other resources were useful to you, or you just want to help, *Please* contribute through one of our github repositories.
