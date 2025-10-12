@@ -62,6 +62,8 @@ Cavallo, S. (2023). Visualizing Cybersecurity-a comparative study toward a secur
 
 Archilla, David Ramos. (2024) Diseño e implementación de un sistema de detección y gestión de ataques de Denegación de Servicio en redes aplicando técnicas de inteligencia artificial https://oa.upm.es/79025/1/TFG_DAVID_RAMOS_ARCHILLA.pdf
 
-DDoS attack classification mechanism using split window strategy and lstm model https://oa.upm.es/79025/1/TFG_DAVID_RAMOS_ARCHILLA.pdf
+DDoS attack classification mechanism using split window strategy and lstm model https://ir.lib.cyut.edu.tw/bitstream/310901800/42578/1/111CYUT0652017-004.pdf
 
 Falter, C. (2023). Emulator for Distributed DDoS Datasets (EDDD) (Master's thesis, University of Zurich). https://www.zora.uzh.ch/id/eprint/255747/1/MA_Calvin_Falter.pdf
+
+Strelciuc R. Intelligent DDoS Mitigation at the Autonomous System Edge: sFlow and Remote Triggered Black Holes in BGP Networks. https://digikogu.taltech.ee/en/Download/59a3423c-66b2-4397-b6f8-e31aaeccec24
