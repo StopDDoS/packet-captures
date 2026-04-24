@@ -64,6 +64,10 @@ Archilla, David Ramos. (2024) Diseño e implementación de un sistema de detecci
 
 DDoS attack classification mechanism using split window strategy and lstm model https://ir.lib.cyut.edu.tw/bitstream/310901800/42578/1/111CYUT0652017-004.pdf
 
+Yunpeng Tan, Qingyang Li, Mingxin Yang, and Xinggong Zhang. 2026. DTAC: Decision-Tree-based Automatic Configuration of Entangled DDoS Defense Policies. In Proceedings of the 19th European Workshop on Systems Security (EuroSec '26). Association for Computing Machinery, New York, NY, USA, 98–104. https://doi.org/10.1145/3803525.3804985
+
 Falter, C. (2023). Emulator for Distributed DDoS Datasets (EDDD) (Master's thesis, University of Zurich). https://www.zora.uzh.ch/id/eprint/255747/1/MA_Calvin_Falter.pdf
 
 Strelciuc R. Intelligent DDoS Mitigation at the Autonomous System Edge: sFlow and Remote Triggered Black Holes in BGP Networks. https://digikogu.taltech.ee/en/Download/59a3423c-66b2-4397-b6f8-e31aaeccec24
+
+de Castro, E. M. P. (2024). Security Data Analytics in 6G Open Networks. https://optaresolutions.com/wp-content/uploads/2025/11/Thesis_Security-Data-Analytics-in-6G-Open-Networks_Eva-Miriam-Pires-de-Castro.pdf
