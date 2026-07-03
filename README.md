@@ -71,3 +71,16 @@ Falter, C. (2023). Emulator for Distributed DDoS Datasets (EDDD) (Master's thesi
 Strelciuc R. Intelligent DDoS Mitigation at the Autonomous System Edge: sFlow and Remote Triggered Black Holes in BGP Networks. https://digikogu.taltech.ee/en/Download/59a3423c-66b2-4397-b6f8-e31aaeccec24
 
 de Castro, E. M. P. (2024). Security Data Analytics in 6G Open Networks. https://optaresolutions.com/wp-content/uploads/2025/11/Thesis_Security-Data-Analytics-in-6G-Open-Networks_Eva-Miriam-Pires-de-Castro.pdf
+
+S. Pullagura, N. Pandita, A. Kakwani, S. A. Gowda and K. K. Rajamani, "SmartGuard: A Machine Learning Based Classification Framework for Automated DoS/DDoS Defense in Next-Generation Firewall Systems," 2026 IEEE 18th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering (TCSET), Lviv, Ukraine, 2026, pp. 1-6, doi: 10.1109/TCSET65181.2026.11461164.
+
+Vedula, Vasudha, Rajendra V. Boppana, and Palden Lama. "Attack-Specific Feature Construction to Detect Malicious TCP Flows." 2024 IEEE International Conference on Cyber Security and Resilience (CSR). IEEE, 2024. https://ieeexplore.ieee.org/abstract/document/10679441/
+
+PATOVÁ, PRÁCE Bc PAVLÍNA, and JAN KUČERA. "PROSTŘEDÍ PRO TESTOVÁNÍ ALGORITMŮ POTLA-ČENÍ ÚTOKŮ DDOS." https://theses.cz/id/h9ej7b/xpatov00.pdf
+
+Tang, Dan, et al. "DNSGreen: A Comprehensive Defense System against Bounce-style DNS DDoS attacks with P4." IEEE Transactions on Computers (2025). https://ieeexplore.ieee.org/abstract/document/11230647
+
+Huang, Xiaojun. Detecting Amplification DDoS Attacks in Multi-Cloud Environments. Diss. School of Computing, University of Portsmouth. https://pure.port.ac.uk/ws/portalfiles/portal/122445547/UP758038-Xiaojun_Huang-PhD_Thesis_19_May_2026.pdf
+
+Vedula, Vasudha. Robust Techniques to Detect and Mitigate Volumetric and Non-Volumetric Network Attacks. Diss. The University of Texas at San Antonio, 2024.
+
