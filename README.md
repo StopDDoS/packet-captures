@@ -82,5 +82,9 @@ Tang, Dan, et al. "DNSGreen: A Comprehensive Defense System against Bounce-style
 
 Huang, Xiaojun. Detecting Amplification DDoS Attacks in Multi-Cloud Environments. Diss. School of Computing, University of Portsmouth. https://pure.port.ac.uk/ws/portalfiles/portal/122445547/UP758038-Xiaojun_Huang-PhD_Thesis_19_May_2026.pdf
 
+Narey, J. (2026). packetlens: Defensive DDoS forensics for packet captures [Computer software]. GitHub. https://github.com/narey83/packetlens
+
+rhaelfixer. Network-Traffic-Analyzer: Live packet capture, traffic analysis, and suspicious network activity detection [Computer software]. GitHub. https://github.com/rhaelfixer/Network-Traffic-Analyzer
+
 Vedula, Vasudha. Robust Techniques to Detect and Mitigate Volumetric and Non-Volumetric Network Attacks. Diss. The University of Texas at San Antonio, 2024.
 
